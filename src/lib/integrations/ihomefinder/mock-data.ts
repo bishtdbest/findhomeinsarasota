@@ -2,11 +2,10 @@ import { Property, Enclave, AgentProfile, SiteSettings } from '../../../types/re
 
 // Generated high-fidelity asset paths
 export const ASSETS = {
-  heroMansion: '/src/assets/images/hero_waterfront_mansion_1790536419968.jpg',
-  siestaBeach: '/src/assets/images/property_siesta_beach_1790536431084.jpg',
-  jennaRyan: '/src/assets/images/agent_jenna_ryan_1790536442529.jpg',
-  lakewoodGolf: '/src/assets/images/property_lakewood_golf_1790536451881.jpg',
-  // Verified luxury backup imagery
+  heroMansion: 'https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1600&q=80',
+  siestaBeach: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80',
+  jennaRyan: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=800&q=80',
+  lakewoodGolf: 'https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80',
   downtownSkyline: 'https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80',
   longboatBeachfront: 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80',
   birdKeyEstate: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80',
